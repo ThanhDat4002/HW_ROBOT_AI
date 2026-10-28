@@ -1,0 +1,9 @@
+# Altium Designer generated files
+History/
+__Preview/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+*.REP
+*.LOG
+Add-Content .gitignore "`n__Previews/"
